@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E62B7831-2E35-4DEA-AEC6-1DD20F700773</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="848" height="303" rx="2"></rect>
+        <filter x="-0.1%" y="-1.0%" width="100.5%" height="101.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0676764642 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Oferta-LATAM-selección-presentación" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards-ofertas---ajustes-1-junio-de-2021" transform="translate(-642.000000, -562.000000)">
+            <text id="Escritorio-Copy" fill-rule="nonzero" font-family="MuseoSans-300, Museo Sans" font-size="30" font-weight="300" fill="#15641F">
+                <tspan x="650" y="579">Escritorio</tspan>
+            </text>
+            <g id="Card-oferta-ajustada" transform="translate(349.000000, 511.000000)">
+                <g id="bg" transform="translate(424.000000, 151.500000) scale(1, -1) rotate(-180.000000) translate(-424.000000, -151.500000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="ubicacion" transform="translate(293.000000, 49.171329)">
+                    <g id="01-Fragments/Icon/Pin" transform="translate(-0.000000, 2.041958)">
+                        <path d="M7.40913176,7.91666667 C7.68400721,8.99733756 8.66467389,9.76511438 9.79862887,9.76511438 C10.9328995,9.76511438 11.9136147,8.99733756 12.1884976,7.91666667 L15.6229743,7.91666667 C15.4319052,11.7188163 11.4233422,16.2329449 9.71175803,18.1156875 C5.83746808,14.3254747 3.98563794,10.2524497 3.84567718,7.91666667 L7.40913176,7.91666667 Z" id="Path"></path>
+                        <path d="M9.71175803,18.1156875 C5.67849726,14.1699538 3.83707355,9.91772279 3.83707355,7.63805365 C3.79346249,4.3498406 6.46746101,1.71945313 9.71175803,1.71945313 C12.9560551,1.71945313 15.6300536,4.3498406 15.6300536,7.63805365 C15.6300536,11.4956503 11.4653497,16.1867367 9.71175803,18.1156875" id="Path" stroke="#8C9091" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M9.79862887,4.83251634 C11.1928105,4.83251634 12.2651144,5.90482026 12.2651144,7.29900185 C12.2651144,8.69281046 11.139102,9.76511438 9.79862887,9.76511438 C8.4585287,9.76511438 7.33251634,8.69281046 7.33251634,7.29900185 C7.33251634,5.9585287 8.40482026,4.83251634 9.79862887,4.83251634 Z" id="Path" stroke="#8C9091" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

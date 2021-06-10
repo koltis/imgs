@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9405C296-E1D7-4FD2-A94C-92B0EDE483B2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="848" height="303" rx="2"></rect>
+        <filter x="-0.1%" y="-1.0%" width="100.5%" height="101.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0676764642 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Oferta-LATAM-selección-presentación" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards-ofertas---ajustes-1-junio-de-2021" transform="translate(-645.000000, -637.000000)">
+            <g id="Card-oferta-ajustada" transform="translate(349.000000, 511.000000)">
+                <g id="bg" transform="translate(424.000000, 151.500000) scale(1, -1) rotate(-180.000000) translate(-424.000000, -151.500000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="list" transform="translate(296.000000, 86.300699)" stroke="#8C9091" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                    <g id="01-Fragments/Icon/Tick" transform="translate(0.000000, 40.220280)">
+                        <path d="M10.7425,2.25786713 L5.259875,9.59359382 C5.13488551,9.760942 4.94366594,9.86560987 4.73578653,9.88046419 C4.52790712,9.8953185 4.32383755,9.81889657 4.17647917,9.6710094 L1.5,6.98517191" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
