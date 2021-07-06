@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="175px" height="65px" viewBox="0 0 175 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>81F18BEC-2064-41A8-A0E9-3A16957B5D1B</title>
+    <defs>
+        <filter x="-0.5%" y="-4.6%" width="100.9%" height="109.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0700376284 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="93.2846659%" y1="50%" x2="4.61697574%" y2="49.00933%" id="linearGradient-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.457788214" offset="31.2549881%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="169" height="59"></rect>
+    </defs>
+    <g id="Oferta-LATAM-selección-presentación" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.594191778">
+        <g id="Cards-ofertas---ajustes-1-junio-de-2021" transform="translate(-328.000000, -1163.000000)">
+            <g id="Card/Oferta/Escritorio/modC/sinDesde" transform="translate(331.000000, 923.000000)">
+                <g id="Info-principal" transform="translate(0.000000, 215.000000)" filter="url(#filter-1)">
+                    <g id="Flechitas" transform="translate(0.000000, 28.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Rectangle" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                        <g mask="url(#mask-4)" stroke="#15641F" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                            <g transform="translate(-80.000000, 16.000000)">
+                                <polyline id="Path-2-Copy-3" points="73 0 90 14 73 28"></polyline>
+                                <polyline id="Path-2-Copy-4" points="98 0 115 14 98 28"></polyline>
+                                <polyline id="Path-2-Copy-6" points="122 0 139 14 122 28"></polyline>
+                                <polyline id="Path-2-Copy-7" points="147 0 164 14 147 28"></polyline>
+                                <polyline id="Path-2-Copy-8" points="171 0 188 14 171 28"></polyline>
+                                <polyline id="Path-2-Copy-9" points="195 0 212 14 195 28"></polyline>
+                                <polyline id="Path-2-Copy-10" points="220 0 237 14 220 28"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
